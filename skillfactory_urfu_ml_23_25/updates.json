@@ -1,0 +1,16 @@
+{
+    "addons": {
+      "{992c20fc-5aec-47de-afb3-ce85e78ab68d}": {
+        "updates": [
+          {
+            "version": "0.1",
+            "update_link": "https://github.com/kavlab/sf_tweaks/releases/download/v0.1/skillfactory_urfu_ml_23_25-0.1.xpi"
+          },
+          {
+            "version": "0.2",
+            "update_link": "https://github.com/kavlab/sf_tweaks/releases/download/v0.2/skillfactory_urfu_ml_23_25-0.2.xpi"
+          }
+        ]
+      }
+    }
+  }
